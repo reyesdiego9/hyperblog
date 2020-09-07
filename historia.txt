@@ -8,3 +8,5 @@ Esta es mi historia
 
 Quiero ser un programador senior
 Hoy hablaremos de su historias
+
+Diego Reyes es una persona que contribuye a este proyecto open source
